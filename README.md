@@ -10,11 +10,11 @@
 ## 技能
 
 * ### 前端
-  + Html
-  + Css / Stylus
+  + HTML
+  + CSS / Stylus
   + RWD
-  + Jquery
-  + javascript
+  + jQuery
+  + JavaScript
   + ECMA 6 script
 
 * ### framework
@@ -24,7 +24,7 @@
 
 * ### 後端
   + Node.js
-  + MongoDb
+  + MongoDB
   + Restful
 
 * ### Edtior
