@@ -20,7 +20,6 @@
 * ### framework
   + React + Redux
   + Meteor
-  + Angular
 
 * ### 後端
   + Node.js
@@ -36,7 +35,14 @@
   + Github
   + Gulp
   + Webpack
-
+  
+## 作品
+* ### http://35.189.175.217/
+  
+      這是我正在做的MTG卡牌交易網站，前端部分使用到React + Redux 和SocketIO來製作，後端的部分是用Node + MongoDb 和 socketIO 
+  目前網站還有一些功能需要調整所以未正式上線
+      
+      
 ## 未來方向
 
 * ### 團隊經驗
