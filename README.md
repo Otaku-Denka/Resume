@@ -12,10 +12,13 @@
 * ### 前端
   + HTML
   + CSS / Stylus
+  + Styled-Components
   + RWD
   + jQuery
   + JavaScript
   + ECMA 6 script
+  + TypeScripe
+  + Socket
 
 * ### framework
   + React + Redux
@@ -37,10 +40,13 @@
   + Webpack
   
 ## 作品
-* ### http://35.189.175.217/
+* ### https://www.samkiap-ch.org/
   
-  這是我正在做的MTG卡牌交易網站，前端部分使用到React + Redux 和SocketIO來製作，後端的部分是用Node + MongoDb 和 socketIO 
-  目前網站還有一些功能需要調整所以未正式上線
+  三峽基督長老教會網站
+  
+* ### https://sosreader.com/n/
+
+  SOSreader 網站改版製作
       
       
 ## 未來方向
